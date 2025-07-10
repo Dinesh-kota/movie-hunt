@@ -1,8 +1,8 @@
-# 🎬 Movie Explorer App
+# Movie Explorer App
 
 A modern movie browsing application built with React.js and styled with TailwindCSS. This project was created as part of my web development learning journey.
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Screen
 ![Home Screen](public/screenshots/home-screen.png)
@@ -72,7 +72,7 @@ This project helped me understand:
    
    Navigate to `http://localhost:5173` to view the app
 
-## 🔧 Getting API Keys
+## Getting API Keys
 
 ### TMDB API Key
 1. Visit [The Movie Database](https://www.themoviedb.org/)
@@ -85,7 +85,7 @@ This project helped me understand:
 3. Set up your database and collection
 4. Get your project credentials
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 movie-explorer/
@@ -105,7 +105,7 @@ movie-explorer/
 └── README.md
 ```
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - [ ] Add user authentication and favorites
 - [ ] Implement movie details page
@@ -114,21 +114,21 @@ movie-explorer/
 - [ ] Add movie recommendations
 - [ ] Implement dark/light theme toggle
 
-## 🤝 Contributing
+## Contributing
 
 This is a learning project, but I'm open to suggestions and improvements! Feel free to:
 - Report bugs
 - Suggest new features
 - Submit pull requests
 
-## 📞 Contact
+## Contact
 
 If you have any questions about this project or want to connect:
 - Email: [gurrapusiddhartha2004@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/siddhartha-gurrapu-8b8069263/]
 - GitHub: [https://github.com/Siddharthag2004]
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
