@@ -123,11 +123,6 @@ This is a learning project, but I'm open to suggestions and improvements! Feel f
 
 ## Contact
 
-If you have any questions about this project or want to connect:
-- Email: [gurrapusiddhartha2004@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/siddhartha-gurrapu-8b8069263/]
-- GitHub: [https://github.com/Siddharthag2004]
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
